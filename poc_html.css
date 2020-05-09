@@ -1,0 +1,204 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 1;
+	--web-view-id: Web_1366___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1366___1 {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 1;
+	--web-view-id: Web_1366___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	height: 64px;
+	left: 33px;
+	top: 36px;
+}
+#WORKERS__PORTAL_p {
+	filter: drop-shadow(0px 3px 6px rgba(29, 140, 158, 0.161));
+	position: absolute;
+	left: 89px;
+	top: 57px;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(10,3,3,1);
+}
+#WELCOME_POINT_OF_CONTACT___ {
+	position: absolute;
+	left: 709px;
+	top: 267px;
+	overflow: visible;
+	width: 518px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myanmar Text;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(12,4,27,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 914.462px;
+	height: 614.07px;
+	left: -80.243px;
+	top: 202.865px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#HOME {
+	position: absolute;
+	left: 659px;
+	top: 57px;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ENGINEERS {
+	position: absolute;
+	left: 810px;
+	top: 52px;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(12,4,27,1);
+}
+#POC {
+	position: absolute;
+	left: 1040px;
+	top: 52px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(12,4,27,1);
+}
+#WORKERS {
+	position: absolute;
+	left: 1161px;
+	top: 52px;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(12,4,27,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	height: 64px;
+	left: 820px;
+	top: 404px;
+}
+#WORKERS__PORTAL_p {
+	filter: drop-shadow(0px 3px 6px rgba(29, 140, 158, 0.161));
+	position: absolute;
+	left: 89px;
+	top: 57px;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(10,3,3,1);
+}
+#ADD_WORKERS {
+	position: absolute;
+	left: 894px;
+	top: 426px;
+	overflow: visible;
+	width: 147px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(240,231,231,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	height: 64px;
+	left: 820px;
+	top: 499px;
+}
+#GO_TO_PROJECTS {
+	position: absolute;
+	left: 901px;
+	top: 520px;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(246,242,242,0.988);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 115px;
+	height: 5px;
+	left: 1011.5px;
+	top: 89.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID4775 {
+	position: absolute;
+	width: 486px;
+	height: 324px;
+	left: 211px;
+	top: 267px;
+	overflow: visible;
+}

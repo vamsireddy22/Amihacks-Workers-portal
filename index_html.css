@@ -1,0 +1,148 @@
+.mediaViewInfo {
+	--web-view-name: Web 1366 – 1;
+	--web-view-id: Web_1366___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1366___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1366___1 {
+	position: absolute;
+	width: 1500px;
+	height: 768px;
+	background-color: rgba(255,255,255,0.949);
+	overflow: hidden;
+	--web-view-name: Web 1366 – 1;
+	--web-view-id: Web_1366___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	height: 64px;
+	left: 24px;
+	top: 37px;
+}
+#WORKERS__PORTAL {
+	filter: drop-shadow(0px 3px 6px rgba(29, 140, 158, 0.161));
+	position: absolute;
+	left: 89px;
+	top: 57px;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(10,3,3,1);
+}
+#Path_1 {
+	opacity: 0.53;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1151.51px;
+	height: 631.983px;
+	left: 460.6px;
+	top: 141.6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID4775 {
+	position: absolute;
+	width: 603px;
+	height: 402px;
+	left: 700px;
+	top: 247px;
+	overflow: visible;
+}
+#HOME {
+	position: absolute;
+	left: 772px;
+	top: 56px;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 89px;
+	height: 5px;
+	left: 772.5px;
+	top: 94.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#WELCOME_TO_WORKERS_PORTAL___ {
+	position: absolute;
+	left: 99px;
+	top: 217px;
+	overflow: visible;
+	width: 551px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Myanmar Text;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(12,4,27,1);
+}
+#ENGINEERS {
+	position: absolute;
+	left: 918px;
+	top: 56px;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(12,4,27,1);
+}
+#POC {
+	position: absolute;
+	left: 1170px;
+	top: 56px;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(12,4,27,1);
+}
+#WORKERS {
+	position: absolute;
+	left: 1313px;
+	top: 62px;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Mongolian Baiti;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(12,4,27,1);
+}
